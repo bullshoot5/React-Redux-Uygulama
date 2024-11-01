@@ -19,4 +19,3 @@
 # ![](bes1.gif)
 
 # ![](bes2.gif)
-# React-Redux-Uygulama
